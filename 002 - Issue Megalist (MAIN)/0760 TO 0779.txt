@@ -200,7 +200,7 @@ The Debate
 
 2. "More publicity means more scrutiny," murmurs your personal assistant, straightening your curtains. "We need to keep your online image squeaky clean. We should keep your public presence where it belongs - pre-prepared teleprompter speeches and draft-by-committee press releases."
 
-3."Woah, that sounds really, really boring," sneers your Chief of Staff, pulling your curtains askew again. "Look, give me some of your social media passwords. I'll dump some opposition research to get your fans really riled up. They'll make short work of anyone who tweets at you the wrong way."
+3. "Woah, that sounds really, really boring," sneers your Chief of Staff, pulling your curtains askew again. "Look, give me some of your social media passwords. I'll dump some opposition research to get your fans really riled up. They'll make short work of anyone who tweets at you the wrong way."
 
 4. "You have all these fans, and you want to manipulate them?" gasps @@RANDOM_NAME@@, head of the @@DEMONYM_ADJECTIVE@@ Bureau of Statistics and hobbyist street petitioner. "It would be far more valuable to know exactly who supports exactly what policies. With bots to scrape social media for all the hashtags and profiles you'll ever need, you can finally see every citizen the way they want to be seen - as a data point!"
 

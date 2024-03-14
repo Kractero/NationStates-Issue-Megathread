@@ -125,7 +125,7 @@ The Issue
 A group of concerned women have complained about rising levels of harassment from male colleagues.
 
 The Debate
-1."I can't get through a day without a male co-worker slapping me on the behind or wolf whistling as I walk to the coffee machine," protests generously-endowed receptionist @@RANDOM_FEMALE_NAME@@. "This has to stop. Men who display this sort of behaviour should be fired immediately." 
+1. "I can't get through a day without a male co-worker slapping me on the behind or wolf whistling as I walk to the coffee machine," protests generously-endowed receptionist @@RANDOM_FEMALE_NAME@@. "This has to stop. Men who display this sort of behaviour should be fired immediately." 
 
 2. "Give us a break honey," says office lothario @@RANDOM_MALE_NAME@@ while ogling your secretary. "A cheeky pinch or admiring glance never hurt anyone. These chicks should stop complaining - it's all a bit of harmless fun." 
 
@@ -140,7 +140,7 @@ The Issue
 Labor organizations are outraged by the practice of unpaid internships following the death of a student intern who worked hundred-hour weeks, desperately trying to get ahead in the finance industry. The unions are demanding the end of unpaid employment.
 
 The Debate
-1."I can't believe the government is allowing this barbaric practice to continue in @@NAME@@!" shouts student union leader @@RANDOM_NAME@@ into a megaphone. "We work long hours doing tedious work for no pay. It's pure corporate exploitation. I'd hardly call alphabetizing papers or washing a CEO's feet valuable work experience. The government must put an end to this horrendous scam!"
+1. "I can't believe the government is allowing this barbaric practice to continue in @@NAME@@!" shouts student union leader @@RANDOM_NAME@@ into a megaphone. "We work long hours doing tedious work for no pay. It's pure corporate exploitation. I'd hardly call alphabetizing papers or washing a CEO's feet valuable work experience. The government must put an end to this horrendous scam!"
 
 2. "You can't seriously be considering this nonsense?" gasps @@MAJOR_INDUSTRY@@ CEO @@RANDOM_MALE_NAME@@ as he plucks grapes from a silver platter held by a disgruntled female intern. "We provide our sla- I mean interns with the most glamorous work that the industry has to offer. They are a great asset to our company. Sure, they might not get paid, but we offer them valuable work experience that they can't get anywhere else. And if they work hard, we even give them a reference. What's wrong with that?"
 

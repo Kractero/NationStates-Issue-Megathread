@@ -145,7 +145,7 @@ An international human rights organisation is petitioning for the regulation of 
 
 The Debate
 
-*1."Trendy smartphones come with a human cost that most are unaware of," tweets activist @@RANDOM_NAME@@. "Corporations should be providing documentation proving an ethical supply chain. International aid to help protect exploited workers wouldn't go amiss either. #bigtopianblues" [[color=blue]Must have private industry[/color]]
+*1. "Trendy smartphones come with a human cost that most are unaware of," tweets activist @@RANDOM_NAME@@. "Corporations should be providing documentation proving an ethical supply chain. International aid to help protect exploited workers wouldn't go amiss either. #bigtopianblues" [[color=blue]Must have private industry[/color]]
 
 *2. "Trendy smartphones come with a human cost that most are unaware of," tweets activist @@RANDOM_NAME@@. "The state should be providing documentation proving an ethical supply chain. International aid to help protect exploited workers wouldn't go amiss either. #bigtopianblues" [[color=red]Must not have private industry[/color]]
 
