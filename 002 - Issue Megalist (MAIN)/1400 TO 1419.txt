@@ -189,7 +189,7 @@ The Debate
 The Issue
 While attempting to buy an Eckie-Ecola at your local convenience store, you are shocked to discover that after a recent bout of severe inflation, the shopkeeper is no longer accepting @@CURRENCY_PLURAL@@ in favor of the much more stable United Federation Dollars.
 
-The Debate:
+The Debate
 1. "I can't say I'm surprised," sighs your Minister of Finance, who happens to be standing in line behind you holding an Addison Cola and a fistful of @@CURRENCY_PLURAL@@. "We've been spending far beyond our means, so the Central Bank's had to print more cash to make up the difference. We'll need to slash government expenditure across the board to get a handle on our debt. It'll be a bitter pill in the short run, but if you hold the line and commit to spending less in the future, I promise you it'll ultimately save the patient."
 
 2. "Wouldn't it be easier to declare the United Federation Dollar as legal tender alongside the @@CURRENCY@@?" suggests the shopkeeper while she gives a dirty look at your wad of cash. "Sure, it will be hard to give up a bit of control and pride, but everyone will have a stable currency to rely on. We could even keep all the spare @@CURRENCY_PLURAL@@ lying around as a novelty for tourists!"

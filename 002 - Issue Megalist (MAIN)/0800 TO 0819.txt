@@ -200,7 +200,7 @@ The Debate
 
 5. "Hold on! What about an option that doesn't discriminate?" asks your cleaner @@RANDOM_NAME@@, sitting on your desk with surprising ease for a @@MAN@@ of @@HIS@@ advanced age. "Need I remind you all that sortition doesn't discriminate? Male and female, young and old, @@DEMONYM@@ or immigrant, it doesn't care. Everyone will get their, albeit short, time to serve. Granted, all MP selections will be completely random, but at least then nobody can complain that there's deliberate discrimination!"
 
------------------------------------------------------------------------------ 
+-----------------------------------------------------------------------------
 [b][anchor=813]#813[/anchor]: A Little Birdie Told Me [Frieden-und Freudenland; ed: Nation of Quebec] [/b]
 
 The Issue
@@ -213,7 +213,7 @@ The Debate
 
 3. "If you let her get away with this insult, our people will start to question your competence as a leader!" clamours @@RANDOM_NAME@@, your Public Relations Adviser, as @@HE@@ scrolls down on @@HIS@@ phone to read Drake's vitriolic twitches. "What we should do is to set up an official Twitcher account for you. This way you can counter Drake's attacks with her own weapon. An eye for an eye. You can also use this account to polish up your public image, of course. Your ministers could get in on this too."
 
------------------------------------------------------------------------------ 
+-----------------------------------------------------------------------------
 [b][anchor=814]#814[/anchor]: A Topic Of Ethical Import [Ransium; ed: Ransium][/b]
 
 The Issue
@@ -226,7 +226,7 @@ The Debate
 
 3. "Why should we care what's happening all the way in Maxtopia?" asks one of your aides, @@RANDOM_NAME@@, while sunning @@HIM@@self on your office's balcony and eating a shrimp platter. "We can't solve all the world's problems, so let's focus on what matters: keeping @@NAME@@ beautiful. If anything, we should be outsourcing more of @@NAME@@'s most polluting industries." @@HE@@ then turns up @@HIS@@ boombox and gestures at the shrimp. "Want one?"
 
------------------------------------------------------------------------------ 
+-----------------------------------------------------------------------------
 [b][anchor=815]#815[/anchor]: Embargoed In [Caracasus; ed: Candlewhisper Archive] [/b]
 
 The Issue
@@ -243,7 +243,7 @@ The Debate
 
 5. "Maybe we should listen to this coalition's entirely reasonable demands, and scale back our weapons programs," muses your Foreign Minister, munching on a Maxtopian mango. "It's not like we really need that many smallpox-infused nuclear warheads, is it? Then, legume trade can proceed."
 
------------------------------------------------------------------------------ 
+-----------------------------------------------------------------------------
 [b][anchor=816]#816[/anchor]: A Hot Topic [The Atlae Isles; ed: Ransium][/b]
 
 The Issue
@@ -258,7 +258,7 @@ The Debate
 
 *4. "You know what's better than that? A compromise!" exclaims your Minister of Making Work @@RANDOM_NAME@@. "There are so many @@DEMONYM_PLURAL@@ who are struggling to find the best way to contribute to the glory of @@NAME@@. All you need to do is send them out to the woods and have them remove those small trees and brush by hand. It'll be expensive and not as natural, sure, but there will be no more smoke, the mature trees in the forests will thrive, and there will be a great new patriotic project for the workers to participate in." [[color=red]Must not have private industry[/color]]
 
------------------------------------------------------------------------------ 
+-----------------------------------------------------------------------------
 [b][anchor=817]#817[/anchor]: Back-Alley Blues [The Free Joy State; ed: Nation of Quebec][/b]
 
 The Issue
@@ -275,7 +275,7 @@ The Debate
 
 *5. "We must pursue righteousness with yet more rigour," intones softly-spoken right-wing moral crusader, @@RANDOM_NAMEMALE@@, dressed in all black. "I constantly hear of 'miscarriages'. Do you know their real name: spontaneous abortion! An abortion, yet there is no punishment. To call them 'miscarriages' perverts nature! Unless the woman categorically proves her 'miscarriage' was not potentially the result of cruelty or negligence, our duty is plain: a life for a life!." He quickly runs off before you can question him. [[color=red]Must ban Religion[/color]]
 
------------------------------------------------------------------------------ 
+-----------------------------------------------------------------------------
 [b][anchor=818]#818[/anchor]: We Are Not Amused [Orisoun; ed: Pogaria][/b]
 
 The Issue
@@ -290,7 +290,7 @@ The Debate
 
 4. "You can't put a big amusement park there!" shouts artist Harry Jarvey, who is infamous for burning all of his sculptures within a week of their completion. "That desert is the site of our annual arts and radical inclusivity festival. The whole thing is based on freedom of expression and participation, not the sale of pre-packaged commercialism. To turn our cherished playa into a morass of corporate commodification would be an outrage! I insist that you prevent this Eisner fellow from leaving any trace of his vanity project in our desert - or anywhere else - and maybe have the government subsidize our event, for good measure. Now if you'll excuse me, I need to write a few more rules for next year's festival."
 
------------------------------------------------------------------------------ 
+-----------------------------------------------------------------------------
 [b][anchor=819]#819[/anchor]: Damned Cold [Candlewhisper Archive; ed: Nation of Quebec][/b]
 
 The Issue

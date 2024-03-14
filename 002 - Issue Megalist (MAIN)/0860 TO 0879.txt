@@ -44,8 +44,7 @@ The Debate
 
 [5]. "Heaven knows who is your best ally," comments @@FAITH@@ First party leader @@RANDOM_NAME@@, drawing a holy symbol on the cake's icing with @@HIS@@ finger, "and as it turns out, I've got heaven on speed-dial. Increase spending on promoting @@FAITH@@ and recognising our state religion, and you'll have our support." [[color=purple]Must have a national religion[/color] AND [color=purple]must have low religiousness[/color]]
 
-[6]. "Don't deal with all these extremists!" scolds Green Party representative Hermes Deming, calculating the carbon footprint of the proffered pudding. "All we Greens want is a little more green thinking and regulation. Unlike those other lunatics, our approach will actually make you MORE popular with the mainstream."
- [[color=purple]Must have a very poor environment[/color]]
+[6]. "Don't deal with all these extremists!" scolds Green Party representative Hermes Deming, calculating the carbon footprint of the proffered pudding. "All we Greens want is a little more green thinking and regulation. Unlike those other lunatics, our approach will actually make you MORE popular with the mainstream." [[color=purple]Must have a very poor environment[/color]]
 
 [7]. "If you're looking for people that play well with others, then look no further," suggests Pacifist Party member @@RANDOM_NAME@@, taking the moral high ground by declining cake despite @@HIS@@ audible hunger-induced tummy rumbles. "Give peace a chance. Cut back military spending a little, disarm your WMDs and become a better person. Like me." @@HE@@ smiles at you smugly. [[color=purple]Must have WMDs and high military spending[/color]]
 

@@ -267,7 +267,9 @@ The Issue
 The fanatical religious organization @@NAME@@'s Concerned Citizens for Our God has brought it to your attention that there are many non-believers in your nation, and that they think something should be done about this.
 
 The Debate
-1 & 2. "We already have an official religion," says @@RANDOM_NAME@@, the white cloaked spokesperson for @@NAME@@'s Concerned Citizens. "Why not enforce it? After all, the only way to Heaven is through Us and Our God. If they will not believe in Our Loving and Forgiving God, well, clearly they must be PUT TO DEATH." [1: [color=blue]Must not have capital punishment[/color] | 2: [color=red]Must have capital punishment[/color]]
+1. "We already have an official religion," says @@RANDOM_NAME@@, the white cloaked spokesperson for @@NAME@@'s Concerned Citizens. "Why not enforce it? After all, the only way to Heaven is through Us and Our God. If they will not believe in Our Loving and Forgiving God, well, clearly they must be PUT TO DEATH." [1: [color=blue]Must not have capital punishment[/color] | 2: [color=red]Must have capital punishment[/color]]
+
+2. "We already have an official religion," says @@RANDOM_NAME@@, the white cloaked spokesperson for @@NAME@@'s Concerned Citizens. "Why not enforce it? After all, the only way to Heaven is through Us and Our God. If they will not believe in Our Loving and Forgiving God, well, clearly they must be PUT TO DEATH." [1: [color=blue]Must not have capital punishment[/color] | 2: [color=red]Must have capital punishment[/color]]
 
 3. "Put to death? Is this really the type of person you want to listen to?" says @@RANDOM_NAME@@. "Every day I thank God that I'm an agnostic and don't need to believe this nonsense. Religion shouldn't have anything to do with our government."
 

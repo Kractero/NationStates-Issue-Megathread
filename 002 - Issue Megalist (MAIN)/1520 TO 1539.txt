@@ -20,7 +20,6 @@ The Debate
 1. "It's simple, daahling," intones @@RANDOM_LAST_NAME_1@@, turning on the charm that made @@HIM_1@@ famous. "When I invested in that little refuge away from the hustle and bustle of the city, nothing was said about the scenic belfry being still in use, so why should I have to put up with that racket? Honestly, bells at 7:00 am on a Saturday? The nuisance laws need to be tightened up... and then maybe we can get a few other problems with the village fixed, too."
 
 2. "Tis proper preposterous," argues villager Giles Bowyer, whose family has farmed near Hambridge for generations. "Us everyday farming folk have been ringing Changes on our bells here regular since time afore memory. Why should we have to stop now, just-a-cause some danged newcomer doesn't like the sweet sound? Make a law that protects local traditions from these kind o' people, or they'll be after us to stop spreading muck on the fields nextly, rot my turnips if they isn't!"
-(Effect: families must live in a village for a century before they get any say in how it runs)
 
 *3. "I have an alternative solution for this," announces @@RANDOM_NAME@@, CTO of Science & Gadgetry, Inc. "A team at my company recently made great leaps in the field of active noise cancellation technology. We only need a few more — well, okay, better make that quite a few more — @@CURRENCY_PLURAL@@ in our budget for the R&D, and we can scale it up to shield entire houses!" [[color=purple]Must have high IT Industry?[/color] OR [color=purple]Must have high Scientific Advancement?[/color] TBD.]
 

@@ -199,7 +199,6 @@ The Debate
 
 The Issue
 While @@NAME@@'s northern ports bustle with trade during the summer time, this flurry of activity freezes to a standstill at the onset of winter when thick sheets of ice form over the frigid waters. This seasonal impasse both severely limits economic productivity and makes resupply of the region difficult.
-The Debate
 
 The Debate
 *1. "@@LEADER@@, we have a brilliant opportunity!" excitedly cheers @@RANDOM_NAME@@, the mayor of one of the cities. "Imagine, our city, a front to the world in both summer and winter. All we need to do is develop and deploy a whole fleet of state-of-the-art icebreakers the likes of which the world has never seen before! I can just picture it now: hundreds of ships, thousands of tourists, and millions of pounds worth of goods coming from across the globe to my port... err, @@NAME@@." [[color=blue]Must not have Autarky[/color]]

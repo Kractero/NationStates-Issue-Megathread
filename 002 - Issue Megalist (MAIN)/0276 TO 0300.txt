@@ -53,8 +53,6 @@ The Debate
 
 **5. "Oh no no no, we've invested too much money into the national vat system to throw it all away over one minor incident," stresses your Financial Minister @@RANDOM_NAME@@. "Look at the situation from a resource standpoint. This batch of resources is damaged, so naturally, the most economical solution is to remove the damaged products, dispose of them, and recycle the functional parts back into the vats. We must reduce, reuse and recycle, @@LEADER@@, for the good of our national vats – and for the good of @@NAME@@, of course." [Validity TBD]
 
-**6. "Oh no no no, we've invested too much money into the national vat system to throw it all away over one minor incident," stresses your Financial Minister @@RANDOM_NAME@@. "Look at the situation from a resource standpoint. This batch of resources is damaged, so naturally, the most economical solution is to remove the damaged products, dispose of them, and recycle the functional parts back into the vats. We must reduce, reuse and recycle, @@LEADER@@, for the good of our national vats – and for the good of @@NAME@@, of course." [Validity TBD]
-
 -------------------------------------------------------------------------------
 [b][anchor=280]#280[/anchor]: Oh the Humanity! [Prevania; ed: Reploid Productions][/b]
 

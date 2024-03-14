@@ -82,10 +82,10 @@ The Debate
 --------------------------------------------------------------
 [b][anchor=1486]#1486[/anchor]: Ask Your Doctor if Ads for Prescription Drugs Are Right for @@NAME@@ [Ransium; ed: Candlewhisper Archive][/b]
 
-The Issue:
+The Issue
 Modern Visor, a major biopharmaceutical company in @@NAME@@, caused a stir by advertising a drug on national television to help firm up people who suffer from Limp Wristed Handshake Syndrome.
 
-The Debate:
+The Debate
 1. Romulus Ruiz, CEO of Modern Visor, has pre-filmed his argument from what appears to be a bathtub on a hillside with a glorious sunset in the background. "You need to trust the @@DEMONYM_ADJECTIVE@@ people here, @@LEADER@@. There's no reason prescription drugs shouldn't be like any other marketplace. Let us put out the information about our drugs and the consumers will be better informed about what they want when they talk to their doctor."
 
 *2. "For the love of Violet, no!" cries Dr. Alan Union, head of the @@DEMONYM_ADJECTIVE@@ Family Medicine Council. "Patients already come in self-diagnosing with cancer based on some web searches and a rash. The last thing I need is to also explain to them why they aren't a good candidate for a dubiously evidenced prescription medicine they saw while watching the evening news. Let's leave recommending medicine to discerning professionals." [[color=blue]Must not ban Internet[/color]]
@@ -97,10 +97,10 @@ The Debate:
 --------------------------------------------------------------
 [b][anchor=1487]#1487[/anchor]: O Fortuna! [Daarwyrth; ed: Pogaria][/b]
 
-The Issue:
+The Issue
 JACKPOT! It seemed impossible, it seemed unlikely, it seemed as if the odds would not favour you. Yet you, @@LEADER@@, are the lucky winner of a major cash prize from last night's national lottery, thanks to that lottery ticket your mother had gifted you for Maxxmas. Yet before you can even celebrate, you realize that your good fortune has made national headlines.
 
-The Debate:
+The Debate
 1. "@@LEADER@@ Wins Lottery: A Directed Stroke of Luck?" quotes Lottery Commissioner @@RANDOM_NAME@@, reading a newspaper headline with a heavy sigh. "The optics of this are just too damning. We're being absolutely overwhelmed with angry and accusatory complaints from every imaginable corner! Some of our employees have even been followed home by mobs carrying literal torches and pitchforks! Who even does that these days? I'm sorry, @@LEADER@@, but you'll have to let us declare this drawing void so that we can pick a new winning ticket. And from now on, government officials shouldn't be allowed to buy lottery tickets."
 
 2. "No, no, just wait a second," says your Chief of Staff, polishing up the mirror that reflects your image. "The optics are bad, but we can turn this into a significant popularity boost. Accept the prize with all due honours and fanfare, but declare that the entire sum will be donated to charity. The Wagger Dog Shelter, the Bryce Waine Orphanage, or heck, even the Out of Luck Gambler's Rehab Centre — take your pick! Just practice smiling through pain, and relinquishing your grip on the cheque beforehand. And hey, I'm pretty sure charitable contributions are tax deductible, which means that you could still profit if you were willing to engage in a little creative accountancy."
@@ -222,10 +222,10 @@ The Debate
 --------------------------------------------------------------
 [b][anchor=1496]#1496[/anchor]: A Place For Everything [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
-The Issue:
+The Issue
 Opposition Leader @@RANDOM_NAME@@ recently made a televised speech at a party conference, and did so with @@HIS@@ brand new uPhone85 prominently visible on the lectern throughout. Several times @@HE@@ used the "Sippy" virtual assistant feature to bring up relevant statistics during @@HIS@@ speech. While @@HIS@@ supporters are pleased at this clever attention-catching variation on the usual political rhetoric, @@HIS@@ opponents have cynically noted that Pear — the manufacturers of the uPhone series — are notable campaign donors to @@HIS@@ party.
 
-The Debate:
+The Debate
 1. "This blatant product placement is the result of selling influence, and is bringing politics into disrepute!" accuses Foreign Minister @@RANDOM_NAME@@, who was recently caught in a scandal involving snorting cocaine off the foreheads of abused interns. "In our official capacity as politicians, we should never be allowed to refer to or endorse commercial products by name."
 
 2. "Look, it's not as if corporations are all-powerful. We're not living in some dystopian science fiction novel!" says your Treasury Minister @@RANDOM_NAME@@, clutching a copy of Max Barry's Jennifer Government, @@HIS@@ favourite book. "Excellent satires on unchecked corporate power aside, my point is that you shouldn't be too reactionary here. Respect free speech, respect free market forces, and don't stand in the way of product placement."
