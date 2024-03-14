@@ -150,6 +150,8 @@ The Debate
 
 3. "WHAT IN SCIENCE'S NAME IS THIS?" fumes a red-faced Dr. Norm Allen, an impatient public health expert. "We doctors put in time to research, develop, and administer real, scientifically backed cures to the good people of @@NAME@@, and now these quacks are trying to poison our people with God-particle-knows-what! We need more funding for quality public hospitals that don't shove religion down our throats, and we need to crack down on these pseudoscientific swindlers, regardless of whether their beliefs are new age or old-time religion."
 
+4. A dark figure emerges from a shadow and bids you into the blackness. "Oh @@LEADER@@, the mortals speak silly words." Reaching into his deceptively large black cloak, he presents you with a bottle of liquid bleach. "The solution is not within us, it is all around us! The universe is but one great mess, a mess which must be cleansed and purified! Rid this nation of these mortals’ delusional cures, and tell them to drink bleach!"
+
 --------------------------------------------------------------
 [b][anchor=1571]#1571[/anchor]: Let's Fix Our Matches [Outer Sparta; ed: Baggieland][/b]
 

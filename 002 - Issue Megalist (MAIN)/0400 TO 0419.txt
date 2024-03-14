@@ -100,7 +100,7 @@ The Issue
 @@NAME@@'s nuclear missiles stand ready. You know the risks. You've weighed the options. But the @@NAME_INITIALS@@SA requires your final approval before launching a nuclear strike on Brasilistan.
 
 The Debate
-1."There is nothing left to discuss," says General @@RANDOM_MALE_NAME@@, his voice echoing strangely loudly in the crowded war room. "The way forward is clear. Indeed, it is the only choice remaining. We are locked into this course of action. There's no actual decision to be made at all. So go ahead. Press the button. There's no stopping it now."
+1. "There is nothing left to discuss," says General @@RANDOM_MALE_NAME@@, his voice echoing strangely loudly in the crowded war room. "The way forward is clear. Indeed, it is the only choice remaining. We are locked into this course of action. There's no actual decision to be made at all. So go ahead. Press the button. There's no stopping it now."
 
 -----------------------------------------------------------------------------
 [b][anchor=407]#407[/anchor]: [color=green][i]An International Incident[/i][/color]: Brasilistan Go Boom [Maxtopia; ed: Sanctaria][/b]
@@ -110,6 +110,8 @@ You decided to deal with the crisis in Brasilistan by launching a wave of nuclea
 
 The Issue
 When you give the order to launch the nukes, your general briefly leaves the room. The moments tick by. When he returns, he simply nods once. "Birds in the air." There are almost two dozen people around this table, including some of the most brilliant minds and fearsome personalities in @@NAME@@, but none of them speak. "Three minutes until impact." You expected more activity. But there's nothing to do. There aren't even any gigantic computer screens, tracing the path of the missiles. It's beneath you, you suppose. Your job is not to track the flight of missiles. Your job is simply to decide. And that's what you've done. You've decided to annihilate another country. You look around the table at your advisors and soldiers. Some nod back at you reassuringly. Some won't meet your eyes. Not everyone will agree with you, of course. But it's not their decision. It's yours. The general leaves the room several more times. Finally, he returns. "It's done," your general says. "It's done."
+
+1.
 
 -----------------------------------------------------------------------------
 [b][anchor=408]#408[/anchor]: [color=goldenrod]Easter Egg[/color]: Pony Peril [Sedgelight Sparkle; ed: Sedgistan][/b]
